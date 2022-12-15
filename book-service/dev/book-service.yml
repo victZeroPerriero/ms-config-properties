@@ -1,0 +1,5 @@
+spring:
+  data:
+    uri: mongodb://localhost:27017/gallerydb
+    username: user
+    password: mongo
